@@ -64,7 +64,7 @@ function App() {
       </h3>
       <div className='row'>
         <form className='col'>
-          <h4>Игрок №1</h4>
+          <h4>Игрок № 1</h4>
           <p>
             Введите количество спичек от 1 до 3
             <input
@@ -81,7 +81,7 @@ function App() {
           </button>
         </form>
         <div className='col'>
-          <h4>Игрок №2</h4>
+          <h4>Игрок № 2</h4>
           <h5>Cпичек: {pl2_sticks}</h5>
         </div>
       </div>
